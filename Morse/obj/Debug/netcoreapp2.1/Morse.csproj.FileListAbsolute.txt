@@ -1,0 +1,11 @@
+D:\Dev\Morse\bin\Debug\netcoreapp2.1\Morse.deps.json
+D:\Dev\Morse\bin\Debug\netcoreapp2.1\Morse.runtimeconfig.json
+D:\Dev\Morse\bin\Debug\netcoreapp2.1\Morse.runtimeconfig.dev.json
+D:\Dev\Morse\bin\Debug\netcoreapp2.1\Morse.dll
+D:\Dev\Morse\bin\Debug\netcoreapp2.1\Morse.pdb
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.csprojAssemblyReference.cache
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.csproj.CoreCompileInputs.cache
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.AssemblyInfoInputs.cache
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.AssemblyInfo.cs
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.dll
+D:\Dev\Morse\obj\Debug\netcoreapp2.1\Morse.pdb
